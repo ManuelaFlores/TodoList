@@ -6,7 +6,12 @@ export const Wrapper = styled.div`
     width: 100%;
 `;
 
-export const Button = styled.button`
+export const List = styled.div`
+    margin: 0px;
+    padding: 0px;
+`;
+
+/*export const Button = styled.button`
     background-color: #ccc;
     display: block;
     padding: 8px 15px;
@@ -33,4 +38,4 @@ export const Button = styled.button`
         font-weight: bold;
         color: red;
     `}
-`;
+`;*/
